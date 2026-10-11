@@ -537,8 +537,8 @@ The spec also assumed a simple 2-signal weighted average throughout. The ensembl
 ## Setup & Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/ai201-project4-provenance-guard
-cd ai201-project4-provenance-guard
+git clone https://github.com/unt-akanksha/Provenance-guard.git
+cd Provenance-guard
 python -m venv .venv
 source .venv/bin/activate        # Mac/Linux
 # .venv\Scripts\activate         # Windows
